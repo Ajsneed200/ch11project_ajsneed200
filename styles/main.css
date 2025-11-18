@@ -1,1 +1,8 @@
-
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: rgb(127, 8, 206);
+  padding: 15px;
+  text-spacing-trim: 12px;
+  margin: 20px;
+  border: 2px;
+}
